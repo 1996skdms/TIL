@@ -8,3 +8,4 @@
 | ------ | -------------------- | ---- |
 | 01 | JIRA 활용 정리 | https://www.notion.so/PJT-JIRA-JIRA-e56494ee9d074d55b200f2392ed0fc45 |
 | 02 | DB 실습 | 선택PJT 10_관계형 데이터베이스 이해 , 선택PJT 13_DB데이터 적재 및 가공 |
+| 05 | Jenkins와 Docker를 활용한 CI/CD 구축 |  |
