@@ -16,4 +16,4 @@
 | 12 | 오픈소스 | https://www.notion.so/2-3e8ee64ca29241d5b75579ef546ad324 |
 | 13 | Spring 공부 |  |
 | 14 | 프로젝트 공부 |  |
-| 15 | Sub PJT Ⅰ |  |
+| 15 | Sub PJT Ⅰ 프로젝트 |  |
