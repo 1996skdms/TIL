@@ -21,4 +21,4 @@
 | 19 | 프로젝트 환경세팅 |  |
 | 20 | REST API 공부 |  |
 | 21 | Source Tree 공부 및 설치 | https://www.inflearn.com/course/git-and-github/dashboard |
-| 22 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/60059 |
+| 22 | 알고리즘 1문제 |  |
