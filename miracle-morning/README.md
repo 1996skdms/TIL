@@ -22,3 +22,4 @@
 | 20 | REST API 공부 |  |
 | 21 | Source Tree 공부 및 설치 | https://www.inflearn.com/course/git-and-github/dashboard |
 | 22 | 알고리즘 1문제 |  |
+| 23 | 프로젝트 공부 | https://www.notion.so/b5d01b7a552141e88bac8f4cbe10ce47 |
