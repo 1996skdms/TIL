@@ -16,10 +16,12 @@
 | 12 | 오픈소스 | https://www.notion.so/2-3e8ee64ca29241d5b75579ef546ad324 |
 | 13 | Spring 공부 |  |
 | 14 | 프로젝트 공부 |  |
-| 15 | Sub PJT Ⅰ 프로젝트 |  |
-| 16 | Sub PJT Ⅰ 프로젝트 |  |
+| 15 | Sub PJT Ⅰ |  |
+| 16 | Sub PJT Ⅰ |  |
 | 19 | 프로젝트 환경세팅 |  |
 | 20 | REST API 공부 |  |
 | 21 | Source Tree 공부 및 설치 | https://www.inflearn.com/course/git-and-github/dashboard |
 | 22 | 알고리즘 1문제 |  |
 | 23 | 프로젝트 공부 | https://www.notion.so/b5d01b7a552141e88bac8f4cbe10ce47 |
+| 26 | Sub PJT Ⅱ | Controller dummy data 생성 |
+| 27 | jpa 공부 |  |
