@@ -25,3 +25,12 @@
 | 23 | 프로젝트 공부 | https://www.notion.so/b5d01b7a552141e88bac8f4cbe10ce47 |
 | 26 | Sub PJT Ⅱ | Controller dummy data 생성 |
 | 27 | jpa 공부 |  |
+| 28 | Sub PJT Ⅱ | 자체 로그인 완료 |
+| 29 | Sub PJT Ⅱ | Email 인증 발송 & 확인 |
+| 30 | 전체 휴무 |  |
+
+### [8월]
+
+| 날짜   | 진행 내용 | 비고 |
+| ------ | -------------------- | ---- |
+| 2 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/42888 |
