@@ -34,3 +34,4 @@
 | 날짜   | 진행 내용 | 비고 |
 | ------ | -------------------- | ---- |
 | 2 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/42888 |
+| 4 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/82612 |
