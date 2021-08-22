@@ -36,3 +36,15 @@
 | 2 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/42888 |
 | 4 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/82612 |
 | 5 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/72410 |
+| 6 | Sub PJT Ⅲ |  |
+| 9 | Sub PJT Ⅲ |  |
+| 10 | Sub PJT Ⅲ |  |
+| 11 | Sub PJT Ⅲ |  |
+| 12 | Sub PJT Ⅲ |  |
+| 13 | Sub PJT Ⅲ |  |
+| 16 | Sub PJT Ⅲ |  |
+| 17 | Sub PJT Ⅲ |  |
+| 18 | Sub PJT Ⅲ |  |
+| 19 | Sub PJT Ⅲ |  |
+| 20 | 전체 휴무 |  |
+| 23 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/49189 |
