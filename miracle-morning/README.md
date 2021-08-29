@@ -48,3 +48,8 @@
 | 19 | Sub PJT Ⅲ |  |
 | 20 | 전체 휴무 |  |
 | 23 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/49189 |
+| 24 | 알고리즘 1문제 | 자체 휴가 |
+| 25 | 알고리즘 1문제 | 빅데이터 프로그램 설치 |
+| 26 | 알고리즘 1문제 | 빅데이터(분석) 1강 |
+| 27 | 알고리즘 1문제 | 빅데이터(분석) 2강 |
+| 30 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/60057 |
