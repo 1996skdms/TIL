@@ -54,3 +54,9 @@
 | 27 | 알고리즘 1문제 | 빅데이터(분석) 2강 |
 | 30 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/60057 |
 | 31 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/43165 |
+
+### [9월]
+
+| 날짜   | 진행 내용 | 비고 |
+| ------ | -------------------- | ---- |
+| 1 | 알고리즘 1문제 | https://programmers.co.kr/learn/courses/30/lessons/81303 |
